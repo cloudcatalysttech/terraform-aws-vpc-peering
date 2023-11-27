@@ -99,7 +99,7 @@ Here are example IAM policies for the requester and accepter VPC roles. Customiz
 }
 ```
 ### Accepter VPC Role Policy
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
